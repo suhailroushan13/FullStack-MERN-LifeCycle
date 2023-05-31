@@ -1,0 +1,17 @@
+.card {
+  border-color: 2px solid aqua;
+  background-color: blanchedalmond;
+  margin: 5%;
+  border-radius: 30px;
+
+  padding: 10px;
+  height: fit-content;
+}
+
+.box {
+  background-color: rgb(226, 225, 225);
+  width: fit-content;
+  border-radius: 30px;
+  margin: 30px;
+  padding: 30px;
+}
